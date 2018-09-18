@@ -26,7 +26,7 @@ It is important that you follow and complete all the listed requirements or the 
  </application>
  ...
 ```
- 
+ **Note:**  if you open android studio at this point, you may get an error saying that it cannot resolve @integer/google_play_services_version. This error should be resolved after you have completed the installation and linking steps below.
  
 ## Installation
 1. Install the package from npm

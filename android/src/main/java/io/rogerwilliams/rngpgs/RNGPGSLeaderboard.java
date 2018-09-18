@@ -30,7 +30,7 @@ import io.rogerwilliams.rngpgs.util.Helpers;
  * Leaderboards module.
  *
  * @author Roger Williams
- * @version 1.0.0
+ * @version 1.0.1
  */
 public class RNGPGSLeaderboard extends ReactContextBaseJavaModule  {
     private Promise mLeaderboardUIPromise;

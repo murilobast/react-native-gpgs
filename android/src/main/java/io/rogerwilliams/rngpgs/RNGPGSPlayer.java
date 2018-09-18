@@ -16,7 +16,12 @@ import com.google.android.gms.tasks.OnSuccessListener;
 
 import io.rogerwilliams.rngpgs.util.Helpers;
 
-
+/**
+ * Players module.
+ *
+ * @author Roger Williams
+ * @version 1.0.1
+ */
 public class RNGPGSPlayer extends ReactContextBaseJavaModule {
     private static final String TAG = "RNGPGS";
 

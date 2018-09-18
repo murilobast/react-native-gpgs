@@ -31,7 +31,7 @@ import io.rogerwilliams.rngpgs.util.Helpers;
  * Authentication module.
  *
  * @author Roger Williams
- * @version 1.0.0
+ * @version 1.0.1
  */
 public class RNGPGSAuth extends ReactContextBaseJavaModule {
     private static final String TAG = "RNGPGS";

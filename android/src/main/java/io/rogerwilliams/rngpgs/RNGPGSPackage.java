@@ -10,6 +10,13 @@ import com.facebook.react.uimanager.ViewManager;
 import java.util.Arrays;
 import java.util.Collections;
 import java.util.List;
+
+/**
+ * React Native Google Play Games Services for Android
+ *
+ * @author Roger Williams
+ * @version 1.0.1
+ */
 public class RNGPGSPackage implements ReactPackage {
     @Override
     public List<NativeModule> createNativeModules(ReactApplicationContext reactContext) {
