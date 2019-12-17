@@ -1,6 +1,6 @@
 {
 	"name": "react-native-gpgs",
-	"version": "1.0.1",
+	"version": "1.0.2",
 	"description": "React Native Google Play Games Services for Android.",
 	"homepage": "https://github.com/rogerwilliamsio/react-native-gpgs.git",
 	"repository": {
@@ -23,6 +23,9 @@
 		"android games"
 	],
 	"author": "Roger Williams",
+	"contributors": [
+		"Sagar Gulati (https://sagargulati.com)"
+	],
 	"license": "MIT",
 	"peerDependencies": {
 		"react-native": "*",
